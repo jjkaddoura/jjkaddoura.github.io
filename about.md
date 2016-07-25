@@ -1,10 +1,11 @@
 ---
 layout: page
-title: TAJ Enterprises - About
+title: About
 permalink: /about/
 ---
 
-Welcome to TAJ Enterprises -- currently we are looking to rent or sell a condo in Missouri.
+Welcome to TAJ Enterprises 
+  We are a small family operated business based out of Yorba Linda, California. 
 
 
 
