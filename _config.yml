@@ -9,7 +9,7 @@
 title: TAJ Enterprises
 email: tajenterllc@aol.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to TAJ Enterprises -- currently we are looking to rent or sell a condo in Missouri. (this was edited in config.yml).
+ (this can be edited in config.yml).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.tajenterprises-llc.com" # the base hostname & protocol for your site
 twitter_username: 
