@@ -8,8 +8,8 @@ Welcome to TAJ Enterprises
   We are a small family operated business based out of Yorba Linda, California. 
 
 
-
-<br /> <br /> <br /> <br />
+---------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
