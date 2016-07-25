@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: TAJ Enterprises - About
 permalink: /about/
 ---
 
